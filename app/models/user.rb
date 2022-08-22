@@ -1,5 +1,5 @@
 class User < ApplicationRecord
-  enum kind: [:salesman, :manger]
+  enum kind: [:salesman, :manager]
   enum status: [:active, :inactive]
   has_many :comissions
   has_many :addresses
