@@ -1,4 +1,4 @@
-pt-BR:
+pt-BR:      
   datetime:
     distance_in_words:
       x_days:
@@ -13,6 +13,7 @@ pt-BR:
       client:
         name: "Nome"
         company_name: "Nome da Empresa"
+        document: "Documento" 
   views:
   admin:
     home:
