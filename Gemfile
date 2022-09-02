@@ -27,6 +27,9 @@ gem 'cancancan', '~> 1.15'
 gem 'carrierwave', '~> 1.0'
 gem 'rails_admin_rollincode', '~> 1.0'
 
+gem 'prawn', '~> 2.1'
+gem 'gruff', '~> 0.7.0'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
